@@ -4,3 +4,5 @@
 Repositório criado com instruções do curso online do Gustavo Guanabara
 
 Nova linha para a Brenda ver como funciona
+
+Nova linha feita pelo navegador.
